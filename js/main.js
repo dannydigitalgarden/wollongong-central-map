@@ -84,7 +84,7 @@ const mapData = {
 		},
 		{
 			id: 'level2',
-			title: 'LVL2',
+			title: 'LVL',
 			map: 'map/lvl.svg',
 		},
 	],
