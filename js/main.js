@@ -75,19 +75,19 @@ const mapData = {
 		{
 			id: 'levelg',
 			title: 'LVLG',
-			map: '../map/lvlg.svg',
+			map: 'map/lvlg.svg',
 			locations: [],
 		},
 		{
 			id: 'level1',
 			title: 'LVL1',
-			map: '../map/lvl1.svg',
+			map: 'map/lvl1.svg',
 			locations: [],
 		},
 		{
 			id: 'level2',
 			title: 'LVL2',
-			map: '../map/lvl.svg',
+			map: 'map/lvl.svg',
 			locations: [],
 		},
 	],
