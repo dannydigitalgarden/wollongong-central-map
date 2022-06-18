@@ -73,17 +73,17 @@ const mapData = {
 	],
 	levels: [
 		{
-			id: 'levelg',
+			id: 'wol_lvl_g',
 			title: 'LVLG',
 			map: 'map/lvlg.svg',
 		},
 		{
-			id: 'level1',
+			id: 'wol_lvl_1',
 			title: 'LVL1',
 			map: 'map/lvl1.svg',
 		},
 		{
-			id: 'level2',
+			id: 'wol_lvl',
 			title: 'LVL',
 			map: 'map/lvl.svg',
 		},
